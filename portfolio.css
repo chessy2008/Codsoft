@@ -1,0 +1,22 @@
+body{
+    background: white;
+}
+header{
+    background-color: rgb(193, 185, 201);
+}
+h3{
+  color: blueviolet;
+  font-family: 'Courier New', Courier, monospace;
+}
+ul{
+  display: flex;
+  list-style-type:none;
+  gap: 25px;
+}
+.h5{
+  font-size: 60px;
+  padding-top: 00px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(253, 255, 253);
+  padding-left: 10px;
+}
